@@ -2,7 +2,7 @@
 
 The Xamarin.Forms RadioButton was fully customizable and templatable. This section explains how to add image or other view with radio button and make it look beautiful!
 
-![Beautiful Radio button](radiobutton_image.PNG)
+![Beautiful Radio button](radiobutton_image.png)
  
 GroupKey: The `GroupKey` in `SfRadioButton` allows you to group a set of radio buttons that are present inside any layout. By grouping in this way, you can only select one radio button from the same GroupKey at a time.
 
@@ -65,4 +65,4 @@ Step 3: Set the RadioPosition if required.
 </control:RadioButtonControl.ItemTemplate>
 ```
 
-![Custom radio button](customRadio_image.PNG)
+![Custom radio button](customRadio_image.png)
